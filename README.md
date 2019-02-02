@@ -1,5 +1,5 @@
 
-# Monokai Pro Theme (for Fish Shell and Terminal)
+# Monokai Pro Theme for MacOS
 
 ![alt text](https://github.com/jhouedanou/Monokai-Pro-terminal/raw/master/dk.png)
 
